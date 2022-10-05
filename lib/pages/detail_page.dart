@@ -213,11 +213,6 @@ class DetailPage extends StatelessWidget {
                 ),
                 fit: BoxFit.cover,
               ),
-              borderRadius: BorderRadius.all(
-                Radius.circular(
-                  16.0,
-                ),
-              ),
             ),
           ),
           Padding(
