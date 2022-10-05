@@ -61,8 +61,15 @@ flutter_native_splash:
 3. Run the project In Web or Emulator
 
 ### 📷 **Demo**
+- Reference `https://dribbble.com/shots/8169776-Travel-App-UI`
+
+
+https://user-images.githubusercontent.com/68719199/194134385-fec22a28-22b0-4fce-92d3-68fbe62512bd.mp4
 
 
 
-    
+
+
+
+
     
