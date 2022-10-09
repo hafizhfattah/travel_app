@@ -1,7 +1,6 @@
 ### 📦 **Travel App**
 
-Best Application For Travel 🚀, 
-Made With Flutter
+Best Application For Travel 
 
 ### 🎁 **Fiture**
 - App Name
